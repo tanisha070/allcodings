@@ -1,0 +1,9 @@
+<html>
+<head><title>workfromhome.com</title></head>
+<script type = "text/javascript">
+document.write("hello javascript")
+</script>
+<body>
+hii...this is the hello world file.
+</body>
+</html>
